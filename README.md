@@ -18,7 +18,7 @@ High-level KPIs, charts, and breakdowns by mode and region.
 
 Forecast Report:
 Predictive sales trend visualizations for upcoming 15 days.
-![SuperStore Sales Dataset](./e59973ee-d060-4eab-9b77-2e36197e16d1.png)
+![SuperStore Sales Dataset](https://github.com/gagandeep1763/Super-Store-Sales-Dashboard/blob/main/Page%201.png)
 
 Notes:
 This repository contains only dashboard images for preview purposes.
