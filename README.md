@@ -1,4 +1,4 @@
-Superstore Sales Dashboard (Image Preview)
+# Superstore Sales Dashboard
 
 Description: 
 
