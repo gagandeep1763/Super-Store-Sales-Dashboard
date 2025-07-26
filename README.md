@@ -32,3 +32,9 @@ Dataset used: Sample Superstore Sales Data (public).
 Purpose: 
 For portfolio, presentation, and visualization showcase only. Helps communicate how Power BI can be used for business analytics and forecasting.
 
+
+## Developed By
+
+**Gagandeep D**  
+Google Certified UI/UX Designer  
+Aspiring Data Analyst
